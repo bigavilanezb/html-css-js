@@ -1,0 +1,13 @@
+.container {
+    background-image: url("../assets/img/bg-2.jpg");
+    width: 750px;
+    height: 571px;
+    margin: auto;
+}
+
+.box {
+    width: 250px;
+    padding: 20px;
+    box-sizing: border-box;
+    float: left;
+}

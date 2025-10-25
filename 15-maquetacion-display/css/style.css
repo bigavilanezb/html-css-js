@@ -1,0 +1,43 @@
+.container {
+    width: 800px;
+    height: 500px;
+}
+
+.col {
+    float: left;
+}
+
+.left,
+.right {
+    width: 50px;
+    height: 100%;
+}
+
+.left {
+    background-color: red;
+}
+
+.right {
+    background-color: green;
+}
+
+.top,
+.mid,
+.bottom {
+    width: 700px;
+}
+
+.top {
+    background-color: yellow;
+    height: 50px;
+}
+
+.mid {
+    background-color: blue;
+    height: 400px;
+}
+
+.bottom {
+    background-color: purple;
+    height: 50px;
+}
