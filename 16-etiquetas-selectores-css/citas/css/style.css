@@ -1,0 +1,48 @@
+body {
+  background-color: #287554;
+}
+
+h1 {
+  color: white;
+  font-size: 3.5rem;
+}
+
+.box {
+  width: 50%;
+  box-sizing: border-box;
+  margin: 15px;
+}
+
+p {
+  margin: 0;
+  padding: 15px;
+}
+
+.center {
+  margin: auto;
+}
+
+.left {
+  margin-right: 50%;
+  background-color: rgb(154, 86, 86);
+  border: 5px solid brown;
+  color: white;
+}
+
+.right {
+  margin-left: 50%;
+  background-color: #aa7a3a;
+  border: 5px solid #864d00;
+  color: white;
+}
+
+.line {
+  background-color: white;
+  border: 5px solid black;
+}
+
+.dashed {
+  background-color: #2a506d;
+  border: 5px dashed #697c8b;
+  color: white;
+}
